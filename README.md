@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 I'm so glad you could come.
 
-- 🔭 I’m currently working at @58Anjuke.
-- 🌱 I’m currently learning backend knowledge.
+- 🔭 I’m currently working at @58Anjuke
+- 🌱 I’m currently learning backend knowledge
 - 👯 I’m a host of website: [@monitor4all](https://price.monitor4all.cn/#/).
-- 👯 I’m a host of official wechat account: @后端技术漫谈.
-- 📫 How to reach me: yangzd1993@foxmail.com
+- 👯 I’m a host of official wechat account: @后端技术漫谈
+- 📫 How to reach me: yangzd1993@foxmail.co
 
