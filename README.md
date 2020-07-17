@@ -30,5 +30,5 @@ I'm so glad you could come.
 - 🌱 I’m currently learning Java/Go
 - 👯 I’m a host of website: [@monitor4all](https://price.monitor4all.cn/#/)
 - 👯 I’m a host of official wechat account: @后端技术漫谈
-- 📫 How to reach me: yangzd1993@foxmail.co
+- 📫 How to reach me: yangzd1993@foxmail.com
 
