@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm so glad you could come.
+I'm so glad you are here.
 
 - 🔭 I’m a backend engineer
 - 🔭 I’m currently working at @58Anjuke
