@@ -29,13 +29,11 @@ I'm so glad you are here.
 
 - 🔭 I’m currently a backend engineer
 - 🔭 I’m currently working at @Alibaba
-- 🌱 I’m currently learning Java/Python
+- 🌱 I’m currently learning backend, IOT and edge computing.
 - 👯 I’m a host of the website: [@monitor4all](https://price.monitor4all.cn/#/)
-- 👯 I’m a host of the official wechat account: @后端技术漫谈
+- 👯 My social media: @公众号：后端技术漫谈 / [博客](https://monitor4all.cn/) / [CSDN](http://blog.csdn.net/qqxx6661) / [知乎](https://www.zhihu.com/people/yang-zhen-dong-1/) / [掘金](https://juejin.im/user/5b48015ce51d45191462ba55)
 - 📫 How to reach me: yangzd1993@foxmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qqxx6661&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqxx6661&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
