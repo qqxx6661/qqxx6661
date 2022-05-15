@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 正在好奇并努力地学习前端开发中
 - 你可以通过邮箱联系我：yangzd1993@foxmail.com
 - 我的技术博客：@公众号：后端技术漫谈 / [博客](https://monitor4all.cn/) / [CSDN](http://blog.csdn.net/qqxx6661) / [知乎](https://www.zhihu.com/people/yang-zhen-dong-1/) / [掘金](https://juejin.im/user/5b48015ce51d45191462ba55)
-- 📫 How to reach me: yangzd1993@foxmail.com
 
 ### Hi there 👋
 
