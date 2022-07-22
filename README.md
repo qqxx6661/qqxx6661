@@ -37,4 +37,6 @@ I'm so glad you are here.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qqxx6661&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqxx6661&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
