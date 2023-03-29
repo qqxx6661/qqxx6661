@@ -13,29 +13,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 你好 👋
-
-😄很高兴你点开了我的主页😄
-
-- 我目前是一名后端开发工程师，主攻Java领域
-- 目前就职于阿里巴巴@Alibaba
-- 热爱后端开发，数据安全，边缘计算等方向
-- 正在好奇并努力地学习前端开发中
-- 你可以通过邮箱联系我：yangzd1993@foxmail.com
-- 我的技术博客：@公众号：后端技术漫谈 / [博客](https://monitor4all.cn/) / [CSDN](http://blog.csdn.net/qqxx6661) / [知乎](https://www.zhihu.com/people/yang-zhen-dong-1/) / [掘金](https://juejin.im/user/5b48015ce51d45191462ba55)
 
 ### Hi there 👋
 
-I'm so glad you are here.
+So glad you are here.
 
-- 🔭 I’m currently a backend engineer
-- 🔭 I’m currently working at @Alibaba
-- 🌱 I’m currently learning backend, data security and edge computing.
+- 🔭 I’m currently a backend engineer.
+- 🔭 I’m currently working at @Alibaba in China.
+- 🌱 I’m currently focusing on backend, data security and AIGC.
+- 🌱 I’m currently learning frontend and desire to be a fullstack engineer.
 - 👯 I’m a host of the website: [@monitor4all](https://monitor4all.cn/#/)
-- 👯 My social media: @公众号：后端技术漫谈 / [博客](https://monitor4all.cn/) / [CSDN](http://blog.csdn.net/qqxx6661) / [知乎](https://www.zhihu.com/people/yang-zhen-dong-1/) / [掘金](https://juejin.im/user/5b48015ce51d45191462ba55)
+- 👯 My social media: @WechatOfficialAccount：后端技术漫谈 / [Blog](https://monitor4all.cn/) / [CSDN](http://blog.csdn.net/qqxx6661) / [Zhihu](https://www.zhihu.com/people/yang-zhen-dong-1/) / [Juejin](https://juejin.im/user/5b48015ce51d45191462ba55)
 - 📫 How to reach me: yangzd1993@foxmail.com
 
+
+### 你好 👋
+
+😄很高兴你点开了我的主页，欢迎与我交流😄
+
+- 我目前是一名后端开发工程师，主攻Java领域。
+- 目前就职于阿里巴巴@Alibaba。
+- 热爱后端开发，数据安全，AIGC等方向。
+- 正在好奇并努力地学习前端开发中，成为合格的全栈工程师。
+- 你可以通过邮箱联系我：yangzd1993@foxmail.com
+- 我的技术博客：@公众号：后端技术漫谈 / [博客](https://monitor4all.cn/) / [CSDN](http://blog.csdn.net/qqxx6661) / [知乎](https://www.zhihu.com/people/yang-zhen-dong-1/) / [掘金](https://juejin.im/user/5b48015ce51d45191462ba55)
+
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qqxx6661&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqxx6661&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
