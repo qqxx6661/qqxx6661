@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
+![](https://readme-typing-svg.demolab.com/?lines=Hi+there👋)
+
+<!--
 ### Hi there 👋
+-->
 
 So glad you are here.
 
@@ -27,7 +31,11 @@ So glad you are here.
 - 📫 How to reach me: yangzd1993@foxmail.com
 
 
+![](https://readme-typing-svg.demolab.com/?lines=你好，很高兴你能来+👋)
+
+<!--
 ### 你好 👋
+-->
 
 😄很高兴你点开了我的主页，欢迎与我交流😄
 
@@ -46,3 +54,9 @@ So glad you are here.
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqxx6661&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+![](https://komarev.com/ghpvc/?username=qqxx6661)
+
+<a href="https://www.buymeacoffee.com/rude3knife" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/>
+</a>
