@@ -41,7 +41,7 @@ So glad you are here.
 
 - 我目前是一名后端开发工程师，主攻Java领域。
 - 目前就职于阿里巴巴。
-- 热爱后端开发，数据安全和大模型方向，并深入研究。
+- 热爱后端开发，数据安全和大模型方向。
 - 正在好奇并努力地学习前端开发中，努力成为合格的全栈工程师。
 - 你可以通过邮箱联系我：yangzd1993@foxmail.com 个人微信：yangzd1102（请务必注明来意）
 - 我的技术博客：@公众号：后端技术漫谈 / [博客](https://monitor4all.cn/) / [CSDN](http://blog.csdn.net/qqxx6661) / [知乎](https://www.zhihu.com/people/yang-zhen-dong-1/) / [掘金](https://juejin.im/user/5b48015ce51d45191462ba55)
